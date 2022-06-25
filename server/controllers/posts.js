@@ -37,4 +37,5 @@ export const updatePost = async (req, res) => {
 
   res.json(updatedPost);
 };
+
 export default router;
